@@ -1,0 +1,2 @@
+# blospost
+Blog básico inicial
