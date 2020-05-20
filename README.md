@@ -1,4 +1,4 @@
-### Información del repositorio
+### Información del repositorio :tw-1f4be:
 
 - Repositorio secundario de :fa-github-square: joseadolfocq;
 - Los archivos guardados son públicos y libres;
